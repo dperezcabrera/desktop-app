@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+    <customers id="000001" name="Alice" />
+    <customers id="000002" name="Bob" />
+    <customers id="000003" name="Peter" />
+    <customers id="000010" name="John" />
+</dataset>
